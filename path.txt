@@ -1,0 +1,4 @@
+C:\Users\SagarT\AppData\Local\Programs\Python\Python39\Scripts
+
+
+C:\Users\SagarT\AppData\Local\Programs\Python\Python39\Lib\site-packages\PIL

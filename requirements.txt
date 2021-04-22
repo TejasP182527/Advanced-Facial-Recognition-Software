@@ -1,0 +1,88 @@
+==============================
+Features of Project:
+==============================
+
+REAL TIME FACE DETECTION
+Home Page
+Student management system (Save, Take Photo Samples, Update, Delete, Clear) 
+Train Photo Samples 
+Take Attendance with Face Detection 
+Attendance Report (Excel file & MySql database) 
+Help Desk
+Exit System
+
+==============================
+Software Requirements:
+==============================
+
+Visual Studio Code
+https://code.visualstudio.com/download
+
+MySQL Workbench
+https://www.mysql.com/downloads/
+
+Python
+https://www.python.org/
+
+MS-Excel
+
+=============================
+Libraries to install
+=============================
+
+1)OpenCV = Used for Computer vision puropose
+To install opencv : pip3 install opencv-python
+To install opencv module: pip3 install opencv-contrib-python
+
+2)tkinter = Use to create GUI
+To install tkinter : pip3 install tkinter
+To install ttk : pip3 install ttk
+Note: If your python version is above 3.9 then no need to install tkinter, its built in Python3.9 and above.
+
+3)Numpy=To create array
+pip3 install numpy
+
+4)Pillow = to read and write imagaes
+pip3 install pillow
+
+5)mysql.connector=To connect mysql with your code
+pip3 install mysql
+
+==============================
+System Reuirement: 
+==============================
+
+Processor: minimum core i3 8th gen or above
+	   core i5 7th gen or above recommended
+RAM: 8GB
+
+Working web Camera
+
+===========================
+Important Notes :
+============================
+
+- Change mysql connection code as per your mysql configuration detail that is host name , user, password, databasename.
+
+- Change path of images directory in the code as per your paths.
+
+- If you change any files name , then make sure to do change inside the code for the same.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
